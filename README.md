@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```txt
 ◉ CSE Student with a love for building real things
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 🐍 My Contributions, Eating Themselves
+## My Contributions, Eating Themselves!
 
 <div align="center">
   <img src="https://github.com/gitswati-27/gitswati-27/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
@@ -60,7 +60,7 @@
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitswati-27&bg_color=0D1117&color=FF6EC7&line=FF6EC7&point=ffffff&area=true&hide_border=true" />
@@ -68,7 +68,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
