@@ -60,10 +60,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gitswati-27&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitswati-27&bg_color=0D1117&color=FF6EC7&line=FF6EC7&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
