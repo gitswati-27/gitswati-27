@@ -1,61 +1,89 @@
-<h1 align="center">Hi, I'm Swati!</h1>
+<div align="center">
 
-<p align="center">
-  💻 Full Stack Developer | 🧠 DSA Enthusiast | 🚀 CSE Student
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Swati!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Dev%20%7C%20DSA%20Enthusiast%20%7C%20CSE%20Student&descAlignY=55&descSize=16" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&lines=I+build+things+that+matter;Passionate+about+problem+solving;Always+learning+new+tech" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF6EC7&center=true&vCenter=true&width=500&lines=I+build+things+that+matter+%F0%9F%9A%80;Passionate+about+problem+solving+%F0%9F%A7%A0;Always+learning+new+tech+%E2%9C%A8;Turning+ideas+into+code+%F0%9F%92%BB" alt="Typing SVG" />
+</a>
+
+<!-- Profile views badge -->
+![](https://komarev.com/ghpvc/?username=gitswati-27&style=flat-square&color=FF6EC7&label=Profile+Views)
+
+</div>
 
 ---
 
 ## 🧠 About Me
-
-* 🎓 Enthusiastic CSE Student
-* 💻 Strong in **HTML, CSS, JavaScript, C++, Python, Java**
-* 🧠 Love solving **Data Structures & Algorithms**
-* 🚀 Building full-stack projects that solve real problems
-* ⚡ Fun fact: I don't need coffee to stay awake, all I need is a good bug 🐞
+```txt
+🎓  CSE Student with a love for building real things
+💻  Strong in HTML, CSS, JavaScript, C++, Python, Java
+🧩  DSA nerd — leetcode is my cardio
+🚀  Full-stack projects that actually solve problems
+🐞  Fun fact: A good bug is better than coffee ☕
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,java,c" />
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,java,c,django&theme=dark" />
 
-</p>
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitswati-27&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitswati-27&theme=radical" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gitswati-27&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FF6EC7&text_color=ffffff&rank_icon=github" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gitswati-27&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=FF6EC7&currStreakLabel=FF6EC7" height="165"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitswati-27&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=ffffff" height="150"/>
+</div>
 
 ---
 
-## 🧠 Top Languages
+## 🐍 My Contributions, Eating Themselves
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitswati-27&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://github.com/gitswati-27/gitswati-27/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gitswati-27&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  📧 swatik2706@gmail.com  
-  📍 Visakhapatnam  
-</p>
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swatik2706@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gitswati-27)
+📍 Visakhapatnam, India
+
+</div>
 
 ---
 
-<p align="center">
-  ⭐️ From Swati — turning ideas into code
-</p>
+<!-- Wave footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+<div align="center">
+  <i>⭐️ From Swati — turning ideas into code, one commit at a time</i>
+</div>
