@@ -15,11 +15,11 @@
 
 ## 🧠 About Me
 ```txt
-🎓  CSE Student with a love for building real things
-💻  Strong in HTML, CSS, JavaScript, C++, Python, Java
-🧩  DSA nerd — leetcode is my cardio
-🚀  Full-stack projects that actually solve problems
-🐞  Fun fact: A good bug is better than coffee ☕
+◉ CSE Student with a love for building real things
+◉ Strong in HTML, CSS, JavaScript, C++, Python, Java
+◉ LeetCode is my cardio - I get out of breath easily though
+◉ Full-stack projects that actually solve problems
+◉ Fun fact: Coffee doesn't keep me awake in the same way as a good bug does! 
 ```
 
 ---
@@ -43,7 +43,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=gitswati-27&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FF6EC7&text_color=ffffff&rank_icon=github" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gitswati-27&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=FF6EC7&currStreakLabel=FF6EC7" height="165"/>
+<img src="https://streak-stats.demolab.com?user=gitswati-27&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=FF6EC7&currStreakLabel=FF6EC7" height="165"/>
 
 </div>
 
@@ -64,7 +64,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gitswati-27&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gitswati-27&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
 </div>
 
 ---
